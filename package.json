@@ -1,7 +1,6 @@
 {
-  "name": "p14-modal",
-  "version": "0.1.0",
-  "private": true,
+  "name": "eloradelpierre_p14-modal",
+  "version": "1.0.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",
@@ -53,6 +52,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "URL_OF_YOUR_REPOSITORY"
+    "url": "https://github.com/Elora-Kittink/EloraDelpierre_P14-Modal_25112021.git"
   }
 }
