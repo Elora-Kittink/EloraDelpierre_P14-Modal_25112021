@@ -1,4 +1,5 @@
 import React from "react";
+import "./modal.css";
 
 const Modal = ({ isOpen, handleModalOpening }) => {
   if (!isOpen) {
