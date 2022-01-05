@@ -1,7 +1,7 @@
 import React from "react";
 import "./modal.css";
 
-const Modal = ({ isOpen, handleModalOpening }) => {
+const Modal = ({ isOpen, closeModal, content }) => {
   if (!isOpen) {
     return null;
   }
@@ -9,8 +9,8 @@ const Modal = ({ isOpen, handleModalOpening }) => {
   return (
     <div className="flex-modal">
       <div className="modal">
-        <button onClick={handleModalOpening}>X</button>
-        <p>Employé créé !</p>
+        <button onClick={closeModal}>X</button>
+        {content}
       </div>
     </div>
   );

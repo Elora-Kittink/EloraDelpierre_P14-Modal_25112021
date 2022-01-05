@@ -1,6 +1,14 @@
 {
   "name": "eloradelpierre_p14-modal",
   "version": "1.0.3",
+  "author": "Elora Delpierre",
+  "description": "a simple react modal dialogs",
+  "keywords": [
+    "modal",
+    "dialogs",
+    "react",
+    "openclassrooms"
+  ],
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",
