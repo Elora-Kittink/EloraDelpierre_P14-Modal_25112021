@@ -5,12 +5,11 @@ const Modal = ({ isOpen, closeModal, content }) => {
   if (!isOpen) {
     return null;
   }
-
   return (
     <div className="flex-modal">
       <div className="modal">
         <button onClick={closeModal}>X</button>
-        {content}
+        <div>{content}</div>
       </div>
     </div>
   );
