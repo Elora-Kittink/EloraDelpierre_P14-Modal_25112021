@@ -2,7 +2,7 @@
   "name": "eloradelpierre_p14-modal",
   "version": "2.1.0",
   "author": "Elora Delpierre",
-  "description": "a simple react modal dialogs",
+  "description": "a simple react modal dialogs with custom content",
   "keywords": [
     "modal",
     "dialogs",
