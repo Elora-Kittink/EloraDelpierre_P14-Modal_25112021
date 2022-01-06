@@ -1,0 +1,9 @@
+.flex-modal {
+  width: 400px;
+  height: 150px;
+}
+
+button {
+  background-color: #ffcb9a;
+  border: 1px solid #116466;
+}
